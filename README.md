@@ -1,4 +1,4 @@
-# Servidor-WEB-NGINX-PHP-PostgreSQL-phpPgAdmin-Letsencrypt-no-Debian-11
+# Servidor-WEB-NGINX-PHP-PostgreSQL-no-Debian-11
 
 Vamos Instalar o NGINX
 
